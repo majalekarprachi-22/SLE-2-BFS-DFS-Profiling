@@ -30,6 +30,17 @@ DFS explores the graph by going as deep as possible before backtracking using a 
 
 A 26-node graph using nodes A to Z was used for the experiment.
 
+                        A
+                       /   \
+                      B     C
+                    /  \   /  \
+                   D    E F    G
+                  / \  / \ / \ / \
+                 H   I J  K L  M N  O
+                / \ / \ / \ / \ |  | 
+               P  Q R  S T  U V  W X Y Z
+
+
 - Start Node: A
 - Goal Node: Z
 

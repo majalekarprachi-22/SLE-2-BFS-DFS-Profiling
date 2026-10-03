@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="KvkL-ydJCYACfexuyR3z">
+    <mxGraphModel dx="813" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FtQigzEyf9I41Im5awRt-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="720" width="640" x="110" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Code Level&lt;div&gt;BFS/DFS Implementation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="320" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-10" edge="1" parent="1" source="FtQigzEyf9I41Im5awRt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FtQigzEyf9I41Im5awRt-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="graph&lt;div&gt;A-Z adjacency list&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="370" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-13" edge="1" parent="1" source="FtQigzEyf9I41Im5awRt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FtQigzEyf9I41Im5awRt-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bfs()&lt;div&gt;BFS using queue&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="370" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-15" edge="1" parent="1" source="FtQigzEyf9I41Im5awRt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FtQigzEyf9I41Im5awRt-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="dfs()&lt;div&gt;DFS using stack&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="370" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-17" edge="1" parent="1" source="FtQigzEyf9I41Im5awRt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FtQigzEyf9I41Im5awRt-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="visited&amp;nbsp;&lt;div&gt;set of visited nodes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="370" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="FtQigzEyf9I41Im5awRt-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="nodes explored&lt;div&gt;counts explored nodes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="370" y="890" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

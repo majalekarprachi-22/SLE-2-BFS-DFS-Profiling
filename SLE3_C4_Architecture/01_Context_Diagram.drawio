@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ZB8hdo7U2q6RRjbTmyhA">
+    <mxGraphModel dx="732" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-13" edge="1" parent="1" source="6srCvNJFq2ecK6DJ0tIw-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="6srCvNJFq2ecK6DJ0tIw-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-15" edge="1" parent="1" source="6srCvNJFq2ecK6DJ0tIw-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="6srCvNJFq2ecK6DJ0tIw-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Graph Search System&lt;div&gt;26 Nodes(A-Z)&lt;br&gt;&lt;div&gt;BFS/DFS&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Result" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Start /Goal node" vertex="1">
+          <mxGeometry height="160" width="140" x="550" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6srCvNJFq2ecK6DJ0tIw-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Nodes Explored/Result" vertex="1">
+          <mxGeometry height="300" width="10" x="860" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
